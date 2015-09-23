@@ -2,7 +2,10 @@
 
 Follow the below steps to upload this task to your account:
 
-* Download the [zip file](https://github.com/UCrypton/VSOTasks/archive/master.zip).
+* Download the Tasks repo as zip file or clone it using git:
+```
+> git clone https://github.com/openalm/Tasks.git
+```
 * Extract the zip file
 * Open command prompt and navigate to the folder: **Tokenizer\x.x.x** where x.x.x is the version number for the task.
 * Install ```tfx-cli``` utility
