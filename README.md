@@ -2,9 +2,9 @@
 
 Follow the below steps to upload this task to your account:
 
-* Download the Tasks repo as zip file or clone it using git:
+* Download the Tasks repo as [zip file](https://github.com/openalm/VSOTasks.git) or clone it using git:
 ```
-> git clone https://github.com/openalm/Tasks.git
+> git clone https://github.com/openalm/VSOTasks.git
 ```
 * Extract the zip file
 * Open command prompt and navigate to the folder: **Tokenizer\x.x.x** where x.x.x is the version number for the task.
