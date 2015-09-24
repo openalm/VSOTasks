@@ -2,7 +2,7 @@
 
 Follow the below steps to upload this task to your account:
 
-* Download the Tasks repo as [zip file](https://github.com/openalm/VSOTasks.git) or clone it using git:
+* Download the Tasks repo as [zip file](https://github.com/openalm/VSOTasks/archive/master.zip) or clone it using git:
 ```
 > git clone https://github.com/openalm/VSOTasks.git
 ```
